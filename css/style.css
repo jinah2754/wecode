@@ -1,0 +1,85 @@
+.sec {
+  position: relative;
+  margin: 0 auto;
+  padding-top: 6px;
+  width: 800px;
+}
+
+.img {
+     margin: 0px auto;
+     text-align: center;
+}
+
+  
+  .one {
+    margin: auto;
+    width: 280px;
+  }
+  
+  .relative {
+    position: relative;
+    text-align: center;
+  }
+  
+  .absolute {
+    position: absolute;
+  }
+  
+  .key {
+    width: 561px;
+    border: solid 1px #bbb;
+    border-radius: 8px;
+    padding: 10px 12px 10px 12px;
+    font-size: 14px;
+  }
+  
+  img { 
+    margin: 0;
+    width: 17px;
+  }
+  
+
+  
+  .cir {
+    top: 10px;
+    left: 117px;
+  }
+  
+  .kbd {
+    top: 15px;
+    right: 139px;
+  }
+  
+  .mic {
+    top: 10px;
+    right: 114px;
+  }
+  
+  .center {
+    margin: 0px auto;
+    text-align: center;
+  }
+
+  .center input {
+    background-image: -webkit-linear-gradient(top,#f8f9fa,#f8f9fa);
+      background-color: #f8f9fa;
+      border: 1px solid #f8f9fa;
+      border-radius: 4px;
+      color: #3c4043;
+      ont-family: 'Apple SD Gothic Neo',arial,sans-serif;
+      font-size: 14px;
+      margin: 11px 4px;
+      padding: 0 16px;
+      line-height: 27px;
+      height: 36px;
+      min-width: 54px;
+      text-align: center;
+      cursor: pointer;
+      user-select: none;
+  }
+  
+  .three {
+    font-size: 10px;
+    width: 150px;
+    margin: auto;
+  }
